@@ -1,0 +1,232 @@
+{
+  "video_id": "2025-05-28_13-42-32_UTC",
+  "vibes": [
+    "Unclassified"
+  ],
+  "products": [
+    {
+      "type": "Co-Ord",
+      "color": "BLACK",
+      "match_type": "similar",
+      "matched_product_id": 17107,
+      "confidence": 0.7654
+    },
+    {
+      "type": "Shorts",
+      "color": "White",
+      "match_type": "similar",
+      "matched_product_id": 42075,
+      "confidence": 0.7853
+    },
+    {
+      "type": "Dress",
+      "color": "Blue and White",
+      "match_type": "no match",
+      "matched_product_id": 16230,
+      "confidence": 0.6992
+    },
+    {
+      "type": "Skirt",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 16887,
+      "confidence": 0.7754
+    },
+    {
+      "type": "Top",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15195,
+      "confidence": 0.7232
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Blue",
+      "match_type": "no match",
+      "matched_product_id": 16069,
+      "confidence": 0.7307
+    },
+    {
+      "type": "Top",
+      "color": "Ecru White",
+      "match_type": "no match",
+      "matched_product_id": 16854,
+      "confidence": 0.7463
+    },
+    {
+      "type": "Top",
+      "color": "Light Blue",
+      "match_type": "no match",
+      "matched_product_id": 16828,
+      "confidence": 0.748
+    },
+    {
+      "type": "Top",
+      "color": "Red",
+      "match_type": "similar",
+      "matched_product_id": 15678,
+      "confidence": 0.7816
+    },
+    {
+      "type": "Top",
+      "color": "Wine Red",
+      "match_type": "no match",
+      "matched_product_id": 17085,
+      "confidence": 0.7133
+    },
+    {
+      "type": "Top",
+      "color": "Red",
+      "match_type": "similar",
+      "matched_product_id": 15678,
+      "confidence": 0.8303
+    },
+    {
+      "type": "Shorts",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 42075,
+      "confidence": 0.7286
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17119,
+      "confidence": 0.7599
+    },
+    {
+      "type": "Top",
+      "color": "Red",
+      "match_type": "similar",
+      "matched_product_id": 15748,
+      "confidence": 0.7853
+    },
+    {
+      "type": "Top",
+      "color": "Red",
+      "match_type": "similar",
+      "matched_product_id": 15678,
+      "confidence": 0.7817
+    },
+    {
+      "type": "Skirt",
+      "color": "RED",
+      "match_type": "similar",
+      "matched_product_id": 17128,
+      "confidence": 0.7554
+    },
+    {
+      "type": "Dress",
+      "color": "Cream",
+      "match_type": "similar",
+      "matched_product_id": 42032,
+      "confidence": 0.7916
+    },
+    {
+      "type": "Skirt",
+      "color": "Multi",
+      "match_type": "no match",
+      "matched_product_id": 16078,
+      "confidence": 0.6583
+    },
+    {
+      "type": "Dress",
+      "color": "Cream",
+      "match_type": "similar",
+      "matched_product_id": 42032,
+      "confidence": 0.7969
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15409,
+      "confidence": 0.7225
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15409,
+      "confidence": 0.7063
+    },
+    {
+      "type": "Dress",
+      "color": "RED",
+      "match_type": "no match",
+      "matched_product_id": 17146,
+      "confidence": 0.6977
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15409,
+      "confidence": 0.7131
+    },
+    {
+      "type": "Shirt",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 16968,
+      "confidence": 0.6924
+    },
+    {
+      "type": "Shirt",
+      "color": "Blue",
+      "match_type": "no match",
+      "matched_product_id": 15259,
+      "confidence": 0.6629
+    },
+    {
+      "type": "Top",
+      "color": "Off White",
+      "match_type": "similar",
+      "matched_product_id": 15290,
+      "confidence": 0.7898
+    },
+    {
+      "type": "Dress",
+      "color": "Pink",
+      "match_type": "similar",
+      "matched_product_id": 42077,
+      "confidence": 0.791
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 16799,
+      "confidence": 0.7258
+    },
+    {
+      "type": "Top",
+      "color": "Wine Red",
+      "match_type": "similar",
+      "matched_product_id": 17085,
+      "confidence": 0.7527
+    },
+    {
+      "type": "Dress",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 14977,
+      "confidence": 0.7468
+    },
+    {
+      "type": "Dress",
+      "color": "Cream",
+      "match_type": "no match",
+      "matched_product_id": 42032,
+      "confidence": 0.7354
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7196
+    }
+  ]
+}

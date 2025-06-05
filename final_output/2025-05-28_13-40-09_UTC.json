@@ -1,0 +1,197 @@
+{
+  "video_id": "2025-05-28_13-40-09_UTC",
+  "vibes": [
+    "Unclassified"
+  ],
+  "products": [
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17077,
+      "confidence": 0.5979
+    },
+    {
+      "type": "Top",
+      "color": "Brown",
+      "match_type": "no match",
+      "matched_product_id": 15358,
+      "confidence": 0.6098
+    },
+    {
+      "type": "Shirt",
+      "color": "Green",
+      "match_type": "similar",
+      "matched_product_id": 17033,
+      "confidence": 0.7558
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17124,
+      "confidence": 0.8296
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8212
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8311
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 15350,
+      "confidence": 0.7952
+    },
+    {
+      "type": "Dress",
+      "color": "#FDFDFD",
+      "match_type": "similar",
+      "matched_product_id": 17198,
+      "confidence": 0.8456
+    },
+    {
+      "type": "Jacket",
+      "color": "Off White",
+      "match_type": "similar",
+      "matched_product_id": 15232,
+      "confidence": 0.7881
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17119,
+      "confidence": 0.8463
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.7728
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8267
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 15295,
+      "confidence": 0.7948
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17119,
+      "confidence": 0.7954
+    },
+    {
+      "type": "Dress",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 42100,
+      "confidence": 0.7023
+    },
+    {
+      "type": "Dress",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 42100,
+      "confidence": 0.7967
+    },
+    {
+      "type": "Dress",
+      "color": "#FDFDFD",
+      "match_type": "similar",
+      "matched_product_id": 17198,
+      "confidence": 0.7979
+    },
+    {
+      "type": "Skirt",
+      "color": "RED",
+      "match_type": "no match",
+      "matched_product_id": 17128,
+      "confidence": 0.7353
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17249,
+      "confidence": 0.7943
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17127,
+      "confidence": 0.7724
+    },
+    {
+      "type": "Dress",
+      "color": "Purple",
+      "match_type": "similar",
+      "matched_product_id": 15974,
+      "confidence": 0.7688
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17127,
+      "confidence": 0.7946
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17137,
+      "confidence": 0.7548
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 17127,
+      "confidence": 0.7772
+    },
+    {
+      "type": "Dress",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 15927,
+      "confidence": 0.7546
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 16851,
+      "confidence": 0.7883
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 16760,
+      "confidence": 0.7879
+    }
+  ]
+}

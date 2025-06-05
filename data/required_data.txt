@@ -1,0 +1,2 @@
+Inside the data folder add the video dataset folder, vibelist.txt,images.csv,product_data.xlsx.
+you can download the dataset from the links,https://drive.google.com/drive/folders/1jT5IIJo6eqyfj7vJSG-SjACuH3G1yHeK?usp=share_link

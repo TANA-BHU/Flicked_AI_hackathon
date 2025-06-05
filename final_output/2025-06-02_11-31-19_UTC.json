@@ -1,0 +1,681 @@
+{
+  "video_id": "2025-06-02_11-31-19_UTC",
+  "vibes": [
+    "Clean Girl",
+    "Coquette"
+  ],
+  "products": [
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6881
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6506
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6248
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6742
+    },
+    {
+      "type": "Top",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 16097,
+      "confidence": 0.6415
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6158
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6939
+    },
+    {
+      "type": "Top",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 16097,
+      "confidence": 0.6362
+    },
+    {
+      "type": "Top",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 16097,
+      "confidence": 0.6489
+    },
+    {
+      "type": "Dress",
+      "color": "Teal",
+      "match_type": "no match",
+      "matched_product_id": 42112,
+      "confidence": 0.6846
+    },
+    {
+      "type": "Top",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15640,
+      "confidence": 0.7161
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.7117
+    },
+    {
+      "type": "Top",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 17076,
+      "confidence": 0.7881
+    },
+    {
+      "type": "Jacket",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15087,
+      "confidence": 0.7039
+    },
+    {
+      "type": "Dress",
+      "color": "Beige",
+      "match_type": "no match",
+      "matched_product_id": 16694,
+      "confidence": 0.6941
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6663
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.647
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6379
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6707
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6737
+    },
+    {
+      "type": "Dress",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 17268,
+      "confidence": 0.8414
+    },
+    {
+      "type": "Dress",
+      "color": "Brown",
+      "match_type": "similar",
+      "matched_product_id": 15034,
+      "confidence": 0.8383
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 15220,
+      "confidence": 0.646
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7298
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 15220,
+      "confidence": 0.7039
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7122
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 15220,
+      "confidence": 0.6625
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6932
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6795
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6837
+    },
+    {
+      "type": "Dress",
+      "color": "Yellow",
+      "match_type": "no match",
+      "matched_product_id": 97546,
+      "confidence": 0.6992
+    },
+    {
+      "type": "Top",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 97551,
+      "confidence": 0.7003
+    },
+    {
+      "type": "Top",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 97551,
+      "confidence": 0.7071
+    },
+    {
+      "type": "Dress",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15672,
+      "confidence": 0.7261
+    },
+    {
+      "type": "Top",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 97551,
+      "confidence": 0.6897
+    },
+    {
+      "type": "Top",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 97551,
+      "confidence": 0.6823
+    },
+    {
+      "type": "Top",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15003,
+      "confidence": 0.6431
+    },
+    {
+      "type": "Top",
+      "color": "#FDFDFD",
+      "match_type": "no match",
+      "matched_product_id": 17032,
+      "confidence": 0.6795
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "similar",
+      "matched_product_id": 118441,
+      "confidence": 0.7691
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17056,
+      "confidence": 0.5839
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6798
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6556
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6761
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6812
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6803
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17178,
+      "confidence": 0.6239
+    },
+    {
+      "type": "Skirt",
+      "color": "Ecru White",
+      "match_type": "similar",
+      "matched_product_id": 16720,
+      "confidence": 0.7751
+    },
+    {
+      "type": "Top",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 17076,
+      "confidence": 0.7821
+    },
+    {
+      "type": "Shirt",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 15259,
+      "confidence": 0.7574
+    },
+    {
+      "type": "Shirt",
+      "color": "Blue",
+      "match_type": "no match",
+      "matched_product_id": 15259,
+      "confidence": 0.7378
+    },
+    {
+      "type": "Top",
+      "color": "#FDFDFD",
+      "match_type": "no match",
+      "matched_product_id": 17032,
+      "confidence": 0.7294
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 15835,
+      "confidence": 0.8244
+    },
+    {
+      "type": "Top",
+      "color": "Off White",
+      "match_type": "no match",
+      "matched_product_id": 15014,
+      "confidence": 0.7465
+    },
+    {
+      "type": "Top",
+      "color": "Ecru",
+      "match_type": "no match",
+      "matched_product_id": 16584,
+      "confidence": 0.6977
+    },
+    {
+      "type": "Shirt",
+      "color": "Blue",
+      "match_type": "no match",
+      "matched_product_id": 15259,
+      "confidence": 0.7277
+    },
+    {
+      "type": "Shirt",
+      "color": "Blue",
+      "match_type": "similar",
+      "matched_product_id": 15259,
+      "confidence": 0.8232
+    },
+    {
+      "type": "Skirt",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 15487,
+      "confidence": 0.6871
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 15430,
+      "confidence": 0.8174
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6815
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6572
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6823
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6875
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6913
+    },
+    {
+      "type": "Top",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 16097,
+      "confidence": 0.6738
+    },
+    {
+      "type": "Top",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 16097,
+      "confidence": 0.6572
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 15220,
+      "confidence": 0.6728
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6831
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6543
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7118
+    },
+    {
+      "type": "Tshirt",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 16219,
+      "confidence": 0.6624
+    },
+    {
+      "type": "Top",
+      "color": "Ecru",
+      "match_type": "no match",
+      "matched_product_id": 16584,
+      "confidence": 0.6801
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17094,
+      "confidence": 0.6672
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.7108
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7198
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.7253
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 15430,
+      "confidence": 0.8054
+    },
+    {
+      "type": "Dress",
+      "color": "Brown",
+      "match_type": "similar",
+      "matched_product_id": 15034,
+      "confidence": 0.8196
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6724
+    },
+    {
+      "type": "Top",
+      "color": "Multi",
+      "match_type": "no match",
+      "matched_product_id": 16110,
+      "confidence": 0.6988
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6643
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17180,
+      "confidence": 0.6703
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6862
+    },
+    {
+      "type": "Shirt",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 15780,
+      "confidence": 0.6664
+    },
+    {
+      "type": "Top",
+      "color": "Green",
+      "match_type": "no match",
+      "matched_product_id": 17071,
+      "confidence": 0.6192
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6735
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6374
+    },
+    {
+      "type": "Shorts",
+      "color": "Pink",
+      "match_type": "no match",
+      "matched_product_id": 14982,
+      "confidence": 0.6912
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.6818
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6757
+    },
+    {
+      "type": "Top",
+      "color": "Navy Blue",
+      "match_type": "no match",
+      "matched_product_id": 97557,
+      "confidence": 0.7056
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.7123
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6637
+    },
+    {
+      "type": "Shirt",
+      "color": "Cream",
+      "match_type": "no match",
+      "matched_product_id": 15403,
+      "confidence": 0.6567
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6967
+    },
+    {
+      "type": "Dress",
+      "color": "White",
+      "match_type": "no match",
+      "matched_product_id": 118441,
+      "confidence": 0.6841
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "no match",
+      "matched_product_id": 17189,
+      "confidence": 0.6961
+    }
+  ]
+}

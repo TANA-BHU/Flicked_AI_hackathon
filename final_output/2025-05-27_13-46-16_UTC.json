@@ -1,0 +1,127 @@
+{
+  "video_id": "2025-05-27_13-46-16_UTC",
+  "vibes": [
+    "Clean Girl"
+  ],
+  "products": [
+    {
+      "type": "Top",
+      "color": "White",
+      "match_type": "similar",
+      "matched_product_id": 15357,
+      "confidence": 0.8204
+    },
+    {
+      "type": "Jacket",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15576,
+      "confidence": 0.7805
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.8244
+    },
+    {
+      "type": "Jacket",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15576,
+      "confidence": 0.7662
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 15531,
+      "confidence": 0.8072
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 15411,
+      "confidence": 0.7638
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.7882
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8014
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.8475
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.7915
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.7926
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.7675
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "no match",
+      "matched_product_id": 15409,
+      "confidence": 0.7347
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8344
+    },
+    {
+      "type": "Trouser",
+      "color": "Black",
+      "match_type": "similar",
+      "matched_product_id": 15409,
+      "confidence": 0.8891
+    },
+    {
+      "type": "unknown",
+      "color": "unknown",
+      "match_type": "similar",
+      "matched_product_id": 15998,
+      "confidence": 0.7569
+    },
+    {
+      "type": "Top",
+      "color": "Beige",
+      "match_type": "similar",
+      "matched_product_id": 16050,
+      "confidence": 0.8597
+    }
+  ]
+}
