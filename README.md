@@ -102,7 +102,7 @@ After running `--step full`, the following files will be generated:
   "similarity": 0.8456,
   "match_type": "similar"
 }
-
+```
 
 ##  Project Highlights
 

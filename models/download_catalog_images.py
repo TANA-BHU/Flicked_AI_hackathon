@@ -28,9 +28,3 @@ def download_images(image_csv_path, save_dir):
                 print(f"Failed to download {url}: {e}")
 
     print(f"Download complete to `{save_dir}/<product_id>/img_<i>.jpg`")
-
-# Example usage
-if __name__ == "__main__":
-    csv_file_path = '/home/elyssa/Flickd_AI_Hackathon/images.csv'
-    save_dir = '/home/elyssa/Flickd_AI_Hackathon/models/catalog_images'
-    download_images(csv_file_path, save_dir)

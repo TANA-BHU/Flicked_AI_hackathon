@@ -118,11 +118,3 @@ def match_detections_to_catalog(detection_dir="detections", faiss_dir="faiss_sto
         json.dump(results, f, indent=2)
 
     print(f"Matching complete. Results saved to `{out_path}`")
-
-# # === Run both steps ===
-# if __name__ == "__main__":
-#     # Build catalog index
-#     build_faiss_index("data/catalog_images", "models/faiss_store")
-
-#     # Match detection crops
-#     match_detections_to_catalog("detections", "models/faiss_store")

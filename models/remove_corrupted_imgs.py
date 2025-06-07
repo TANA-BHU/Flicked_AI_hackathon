@@ -29,14 +29,3 @@ def clean_corrupt_images(root_dir, extensions=('.jpg', '.jpeg', '.png')):
                 except Exception as e:
                     print(f"⚠️ Could not delete {img_path}: {e}")
     print(f"\Finished. Total corrupted images deleted: {total_deleted}")
-
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser(description="Delete corrupted/unreadable images from folders.")
-    parser.add_argument("root_dir", type=str, help="Path to root directory containing image folders.")
-    args = parser.parse_args()
-
-    if os.path.isdir(args.root_dir):
-        clean_corrupt_images(args.root_dir)
-    else:
-        print(f" Error: Directory does not exist -> {args.root_dir}")
