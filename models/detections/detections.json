@@ -1,0 +1,2381 @@
+[
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 0,
+    "label": "person",
+    "confidence": 0.7172,
+    "bbox": [
+      285,
+      242,
+      329,
+      1037
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame0_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.8405,
+    "bbox": [
+      156,
+      187,
+      401,
+      1068
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame1_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.8699,
+    "bbox": [
+      167,
+      104,
+      551,
+      1174
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame2_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8768,
+    "bbox": [
+      62,
+      234,
+      586,
+      1041
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame3_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 4,
+    "label": "person",
+    "confidence": 0.9046,
+    "bbox": [
+      22,
+      251,
+      674,
+      1024
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame4_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 5,
+    "label": "person",
+    "confidence": 0.8976,
+    "bbox": [
+      0,
+      269,
+      708,
+      1008
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame5_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 6,
+    "label": "person",
+    "confidence": 0.927,
+    "bbox": [
+      0,
+      171,
+      698,
+      1106
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame6_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.9019,
+    "bbox": [
+      8,
+      94,
+      690,
+      1185
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame7_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.922,
+    "bbox": [
+      76,
+      292,
+      619,
+      987
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame8_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.869,
+    "bbox": [
+      37,
+      163,
+      643,
+      1116
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame9_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 10,
+    "label": "person",
+    "confidence": 0.8945,
+    "bbox": [
+      82,
+      152,
+      636,
+      1123
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame10_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 11,
+    "label": "person",
+    "confidence": 0.8185,
+    "bbox": [
+      37,
+      3,
+      673,
+      934
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame11_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 12,
+    "label": "person",
+    "confidence": 0.854,
+    "bbox": [
+      16,
+      197,
+      690,
+      1080
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame12_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 13,
+    "label": "person",
+    "confidence": 0.8101,
+    "bbox": [
+      15,
+      201,
+      594,
+      1063
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame13_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 14,
+    "label": "person",
+    "confidence": 0.8976,
+    "bbox": [
+      3,
+      159,
+      688,
+      1118
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame14_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 15,
+    "label": "person",
+    "confidence": 0.8693,
+    "bbox": [
+      244,
+      308,
+      373,
+      920
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame15_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 16,
+    "label": "person",
+    "confidence": 0.8765,
+    "bbox": [
+      296,
+      209,
+      424,
+      1067
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame16_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 17,
+    "label": "person",
+    "confidence": 0.8749,
+    "bbox": [
+      123,
+      259,
+      470,
+      1021
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame17_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 18,
+    "label": "person",
+    "confidence": 0.856,
+    "bbox": [
+      297,
+      338,
+      330,
+      930
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame18_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.5881,
+    "bbox": [
+      372,
+      226,
+      348,
+      677
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.5538,
+    "bbox": [
+      285,
+      301,
+      180,
+      226
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det2_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.5267,
+    "bbox": [
+      0,
+      266,
+      383,
+      1013
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det3_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.4947,
+    "bbox": [
+      651,
+      1033,
+      68,
+      190
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det4_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.4922,
+    "bbox": [
+      0,
+      297,
+      374,
+      697
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det5_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.3553,
+    "bbox": [
+      370,
+      376,
+      350,
+      892
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame19_det7_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 20,
+    "label": "person",
+    "confidence": 0.7908,
+    "bbox": [
+      61,
+      327,
+      494,
+      779
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame20_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 21,
+    "label": "person",
+    "confidence": 0.7607,
+    "bbox": [
+      100,
+      2,
+      618,
+      1272
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame21_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 22,
+    "label": "person",
+    "confidence": 0.6919,
+    "bbox": [
+      1,
+      371,
+      555,
+      898
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame22_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 22,
+    "label": "person",
+    "confidence": 0.5325,
+    "bbox": [
+      209,
+      375,
+      349,
+      777
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame22_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 23,
+    "label": "person",
+    "confidence": 0.8737,
+    "bbox": [
+      0,
+      193,
+      637,
+      1083
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame23_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 24,
+    "label": "person",
+    "confidence": 0.8132,
+    "bbox": [
+      17,
+      357,
+      692,
+      907
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame24_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-42-32_UTC",
+    "frame_number": 25,
+    "label": "person",
+    "confidence": 0.854,
+    "bbox": [
+      0,
+      227,
+      679,
+      1025
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-42-32_UTC/2025-05-28_13-42-32_UTC_frame25_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 0,
+    "label": "person",
+    "confidence": 0.6946,
+    "bbox": [
+      8,
+      2,
+      710,
+      1260
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame0_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.8282,
+    "bbox": [
+      0,
+      0,
+      719,
+      1270
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame1_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.3525,
+    "bbox": [
+      1,
+      568,
+      167,
+      478
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame1_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.8656,
+    "bbox": [
+      186,
+      167,
+      489,
+      1112
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame2_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.8637,
+    "bbox": [
+      3,
+      423,
+      262,
+      855
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame2_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8662,
+    "bbox": [
+      17,
+      429,
+      272,
+      846
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame3_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8382,
+    "bbox": [
+      240,
+      190,
+      429,
+      1087
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame3_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 4,
+    "label": "person",
+    "confidence": 0.8715,
+    "bbox": [
+      297,
+      457,
+      249,
+      779
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame4_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 5,
+    "label": "person",
+    "confidence": 0.9217,
+    "bbox": [
+      220,
+      354,
+      381,
+      925
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame5_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 6,
+    "label": "person",
+    "confidence": 0.8132,
+    "bbox": [
+      149,
+      287,
+      358,
+      992
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame6_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.9357,
+    "bbox": [
+      6,
+      214,
+      620,
+      1060
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame7_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.3064,
+    "bbox": [
+      0,
+      486,
+      124,
+      788
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame7_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.8942,
+    "bbox": [
+      126,
+      396,
+      458,
+      883
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame8_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.8349,
+    "bbox": [
+      1,
+      652,
+      188,
+      627
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame8_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.8392,
+    "bbox": [
+      0,
+      138,
+      718,
+      1139
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame9_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 10,
+    "label": "person",
+    "confidence": 0.9429,
+    "bbox": [
+      102,
+      354,
+      489,
+      924
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame10_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 11,
+    "label": "person",
+    "confidence": 0.9162,
+    "bbox": [
+      252,
+      337,
+      219,
+      767
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame11_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 12,
+    "label": "person",
+    "confidence": 0.8626,
+    "bbox": [
+      188,
+      219,
+      341,
+      1034
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame12_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 13,
+    "label": "person",
+    "confidence": 0.9149,
+    "bbox": [
+      38,
+      279,
+      600,
+      1001
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame13_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 14,
+    "label": "person",
+    "confidence": 0.9043,
+    "bbox": [
+      247,
+      521,
+      281,
+      678
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame14_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 15,
+    "label": "person",
+    "confidence": 0.8875,
+    "bbox": [
+      202,
+      415,
+      382,
+      863
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame15_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 16,
+    "label": "person",
+    "confidence": 0.8969,
+    "bbox": [
+      0,
+      510,
+      264,
+      757
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame16_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 16,
+    "label": "handbag",
+    "confidence": 0.3673,
+    "bbox": [
+      1,
+      659,
+      120,
+      161
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame16_det6_handbag.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 17,
+    "label": "person",
+    "confidence": 0.8681,
+    "bbox": [
+      309,
+      508,
+      219,
+      770
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame17_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 17,
+    "label": "handbag",
+    "confidence": 0.6511,
+    "bbox": [
+      324,
+      633,
+      140,
+      202
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame17_det2_handbag.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 18,
+    "label": "person",
+    "confidence": 0.9345,
+    "bbox": [
+      158,
+      352,
+      534,
+      925
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame18_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-28_13-40-09_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.9258,
+    "bbox": [
+      161,
+      367,
+      416,
+      912
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-28_13-40-09_UTC/2025-05-28_13-40-09_UTC_frame19_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 0,
+    "label": "person",
+    "confidence": 0.8656,
+    "bbox": [
+      6,
+      61,
+      671,
+      1218
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame0_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 0,
+    "label": "umbrella",
+    "confidence": 0.3562,
+    "bbox": [
+      4,
+      0,
+      716,
+      716
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame0_det1_umbrella.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.9005,
+    "bbox": [
+      5,
+      69,
+      688,
+      1211
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame1_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 1,
+    "label": "umbrella",
+    "confidence": 0.3946,
+    "bbox": [
+      4,
+      3,
+      716,
+      770
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame1_det1_umbrella.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 2,
+    "label": "tie",
+    "confidence": 0.8914,
+    "bbox": [
+      227,
+      921,
+      239,
+      358
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame2_det0_tie.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.8575,
+    "bbox": [
+      62,
+      106,
+      658,
+      1169
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame2_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8812,
+    "bbox": [
+      307,
+      182,
+      344,
+      1029
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame3_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8011,
+    "bbox": [
+      50,
+      132,
+      294,
+      1135
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame3_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 4,
+    "label": "person",
+    "confidence": 0.8962,
+    "bbox": [
+      0,
+      0,
+      715,
+      1276
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame4_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 5,
+    "label": "person",
+    "confidence": 0.9069,
+    "bbox": [
+      0,
+      3,
+      720,
+      1275
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame5_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.8882,
+    "bbox": [
+      0,
+      0,
+      719,
+      1277
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame7_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.4491,
+    "bbox": [
+      399,
+      302,
+      300,
+      271
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame8_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.3239,
+    "bbox": [
+      0,
+      303,
+      706,
+      449
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame8_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.8232,
+    "bbox": [
+      1,
+      2,
+      604,
+      1276
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame9_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.711,
+    "bbox": [
+      398,
+      191,
+      258,
+      1084
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame9_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 10,
+    "label": "person",
+    "confidence": 0.418,
+    "bbox": [
+      3,
+      3,
+      715,
+      1248
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame10_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-27_13-46-16_UTC",
+    "frame_number": 11,
+    "label": "person",
+    "confidence": 0.8503,
+    "bbox": [
+      3,
+      55,
+      673,
+      1223
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-27_13-46-16_UTC/2025-05-27_13-46-16_UTC_frame11_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 0,
+    "label": "person",
+    "confidence": 0.9254,
+    "bbox": [
+      1,
+      79,
+      670,
+      1200
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame0_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.9284,
+    "bbox": [
+      24,
+      85,
+      687,
+      1195
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame1_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.9306,
+    "bbox": [
+      20,
+      66,
+      686,
+      1211
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame2_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8958,
+    "bbox": [
+      8,
+      116,
+      696,
+      1159
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame3_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 4,
+    "label": "person",
+    "confidence": 0.9121,
+    "bbox": [
+      16,
+      175,
+      685,
+      1101
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame4_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 5,
+    "label": "person",
+    "confidence": 0.9107,
+    "bbox": [
+      7,
+      189,
+      711,
+      1088
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame5_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 6,
+    "label": "person",
+    "confidence": 0.8989,
+    "bbox": [
+      5,
+      184,
+      710,
+      1094
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame6_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.9065,
+    "bbox": [
+      5,
+      189,
+      706,
+      1089
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame7_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.9089,
+    "bbox": [
+      2,
+      186,
+      708,
+      1091
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame8_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.9092,
+    "bbox": [
+      1,
+      0,
+      716,
+      1273
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame9_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 10,
+    "label": "person",
+    "confidence": 0.8991,
+    "bbox": [
+      0,
+      2,
+      718,
+      1272
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame10_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 11,
+    "label": "person",
+    "confidence": 0.9218,
+    "bbox": [
+      0,
+      0,
+      718,
+      1273
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame11_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 12,
+    "label": "person",
+    "confidence": 0.6068,
+    "bbox": [
+      37,
+      3,
+      683,
+      877
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame12_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 12,
+    "label": "person",
+    "confidence": 0.5435,
+    "bbox": [
+      0,
+      5,
+      720,
+      1256
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame12_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 13,
+    "label": "person",
+    "confidence": 0.65,
+    "bbox": [
+      1,
+      2,
+      718,
+      1168
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame13_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 14,
+    "label": "person",
+    "confidence": 0.8777,
+    "bbox": [
+      1,
+      48,
+      719,
+      1227
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame14_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 15,
+    "label": "person",
+    "confidence": 0.8912,
+    "bbox": [
+      0,
+      41,
+      703,
+      1237
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame15_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 16,
+    "label": "person",
+    "confidence": 0.9042,
+    "bbox": [
+      0,
+      40,
+      715,
+      1236
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame16_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 17,
+    "label": "person",
+    "confidence": 0.9041,
+    "bbox": [
+      0,
+      40,
+      720,
+      1237
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame17_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 18,
+    "label": "person",
+    "confidence": 0.8838,
+    "bbox": [
+      1,
+      19,
+      715,
+      1258
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame18_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 19,
+    "label": "person",
+    "confidence": 0.6739,
+    "bbox": [
+      0,
+      0,
+      634,
+      1087
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame19_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 20,
+    "label": "person",
+    "confidence": 0.7544,
+    "bbox": [
+      0,
+      4,
+      647,
+      900
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame20_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 21,
+    "label": "person",
+    "confidence": 0.9058,
+    "bbox": [
+      2,
+      71,
+      697,
+      1207
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame21_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 22,
+    "label": "person",
+    "confidence": 0.8781,
+    "bbox": [
+      2,
+      96,
+      713,
+      1183
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame22_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 23,
+    "label": "person",
+    "confidence": 0.8416,
+    "bbox": [
+      1,
+      85,
+      685,
+      1194
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame23_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 24,
+    "label": "person",
+    "confidence": 0.8125,
+    "bbox": [
+      0,
+      102,
+      715,
+      1176
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame24_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 25,
+    "label": "person",
+    "confidence": 0.9086,
+    "bbox": [
+      0,
+      148,
+      720,
+      1126
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame25_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 26,
+    "label": "person",
+    "confidence": 0.906,
+    "bbox": [
+      0,
+      37,
+      720,
+      1200
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame26_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 27,
+    "label": "person",
+    "confidence": 0.9054,
+    "bbox": [
+      0,
+      59,
+      717,
+      1218
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame27_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 28,
+    "label": "person",
+    "confidence": 0.9081,
+    "bbox": [
+      4,
+      34,
+      714,
+      1235
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame28_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 29,
+    "label": "person",
+    "confidence": 0.858,
+    "bbox": [
+      33,
+      294,
+      584,
+      746
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame29_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 30,
+    "label": "person",
+    "confidence": 0.8447,
+    "bbox": [
+      38,
+      298,
+      574,
+      732
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame30_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 31,
+    "label": "person",
+    "confidence": 0.5524,
+    "bbox": [
+      47,
+      306,
+      563,
+      723
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame31_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 31,
+    "label": "person",
+    "confidence": 0.3557,
+    "bbox": [
+      165,
+      297,
+      446,
+      614
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame31_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 32,
+    "label": "person",
+    "confidence": 0.8614,
+    "bbox": [
+      45,
+      314,
+      563,
+      708
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame32_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 33,
+    "label": "person",
+    "confidence": 0.8539,
+    "bbox": [
+      48,
+      309,
+      557,
+      712
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame33_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 34,
+    "label": "person",
+    "confidence": 0.9264,
+    "bbox": [
+      55,
+      263,
+      589,
+      757
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame34_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 35,
+    "label": "person",
+    "confidence": 0.9157,
+    "bbox": [
+      50,
+      261,
+      590,
+      776
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame35_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 36,
+    "label": "person",
+    "confidence": 0.8822,
+    "bbox": [
+      49,
+      260,
+      593,
+      999
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame36_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 37,
+    "label": "person",
+    "confidence": 0.9091,
+    "bbox": [
+      44,
+      259,
+      619,
+      948
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame37_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 38,
+    "label": "person",
+    "confidence": 0.8843,
+    "bbox": [
+      15,
+      259,
+      701,
+      1021
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame38_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 39,
+    "label": "person",
+    "confidence": 0.8792,
+    "bbox": [
+      21,
+      246,
+      688,
+      1032
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame39_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 40,
+    "label": "person",
+    "confidence": 0.8836,
+    "bbox": [
+      7,
+      243,
+      711,
+      1036
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame40_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 41,
+    "label": "person",
+    "confidence": 0.9084,
+    "bbox": [
+      3,
+      52,
+      702,
+      1221
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame41_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 42,
+    "label": "person",
+    "confidence": 0.9197,
+    "bbox": [
+      2,
+      33,
+      718,
+      1243
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame42_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 43,
+    "label": "person",
+    "confidence": 0.9062,
+    "bbox": [
+      1,
+      51,
+      718,
+      1217
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame43_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 44,
+    "label": "person",
+    "confidence": 0.8124,
+    "bbox": [
+      1,
+      3,
+      697,
+      1275
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame44_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 45,
+    "label": "person",
+    "confidence": 0.7188,
+    "bbox": [
+      7,
+      2,
+      710,
+      1266
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame45_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 46,
+    "label": "person",
+    "confidence": 0.7726,
+    "bbox": [
+      1,
+      70,
+      719,
+      1207
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame46_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 47,
+    "label": "person",
+    "confidence": 0.8205,
+    "bbox": [
+      2,
+      34,
+      717,
+      1246
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame47_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 48,
+    "label": "person",
+    "confidence": 0.9142,
+    "bbox": [
+      57,
+      112,
+      561,
+      1167
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame48_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 49,
+    "label": "person",
+    "confidence": 0.8919,
+    "bbox": [
+      95,
+      118,
+      571,
+      1162
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame49_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 50,
+    "label": "person",
+    "confidence": 0.8964,
+    "bbox": [
+      0,
+      182,
+      655,
+      1095
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame50_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 51,
+    "label": "person",
+    "confidence": 0.9012,
+    "bbox": [
+      4,
+      184,
+      664,
+      1092
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame51_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 52,
+    "label": "person",
+    "confidence": 0.6877,
+    "bbox": [
+      2,
+      4,
+      718,
+      1030
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame52_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 52,
+    "label": "person",
+    "confidence": 0.6768,
+    "bbox": [
+      0,
+      7,
+      621,
+      821
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame52_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 53,
+    "label": "person",
+    "confidence": 0.7714,
+    "bbox": [
+      2,
+      4,
+      718,
+      1215
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame53_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 53,
+    "label": "person",
+    "confidence": 0.3272,
+    "bbox": [
+      0,
+      4,
+      720,
+      823
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame53_det1_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 54,
+    "label": "person",
+    "confidence": 0.884,
+    "bbox": [
+      4,
+      182,
+      705,
+      1096
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame54_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 55,
+    "label": "person",
+    "confidence": 0.849,
+    "bbox": [
+      1,
+      150,
+      711,
+      1127
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame55_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 56,
+    "label": "person",
+    "confidence": 0.9005,
+    "bbox": [
+      2,
+      130,
+      716,
+      1148
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame56_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 57,
+    "label": "person",
+    "confidence": 0.9059,
+    "bbox": [
+      0,
+      125,
+      711,
+      1153
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame57_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 58,
+    "label": "person",
+    "confidence": 0.8803,
+    "bbox": [
+      5,
+      113,
+      714,
+      1163
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame58_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 59,
+    "label": "person",
+    "confidence": 0.9365,
+    "bbox": [
+      1,
+      108,
+      719,
+      1170
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame59_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 60,
+    "label": "person",
+    "confidence": 0.848,
+    "bbox": [
+      1,
+      47,
+      701,
+      1230
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame60_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 61,
+    "label": "person",
+    "confidence": 0.8558,
+    "bbox": [
+      3,
+      44,
+      703,
+      1234
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame61_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 62,
+    "label": "person",
+    "confidence": 0.8003,
+    "bbox": [
+      5,
+      58,
+      705,
+      1217
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame62_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 63,
+    "label": "person",
+    "confidence": 0.7887,
+    "bbox": [
+      11,
+      48,
+      709,
+      1198
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame63_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 64,
+    "label": "person",
+    "confidence": 0.8974,
+    "bbox": [
+      2,
+      1,
+      715,
+      1277
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame64_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 65,
+    "label": "person",
+    "confidence": 0.8833,
+    "bbox": [
+      0,
+      0,
+      720,
+      1266
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame65_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 66,
+    "label": "person",
+    "confidence": 0.9074,
+    "bbox": [
+      0,
+      0,
+      720,
+      1238
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame66_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 67,
+    "label": "person",
+    "confidence": 0.8415,
+    "bbox": [
+      4,
+      102,
+      716,
+      1170
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame67_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 68,
+    "label": "person",
+    "confidence": 0.904,
+    "bbox": [
+      2,
+      101,
+      717,
+      1175
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame68_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 69,
+    "label": "person",
+    "confidence": 0.8648,
+    "bbox": [
+      3,
+      101,
+      717,
+      1172
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame69_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 70,
+    "label": "person",
+    "confidence": 0.8837,
+    "bbox": [
+      40,
+      184,
+      667,
+      1095
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame70_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 71,
+    "label": "person",
+    "confidence": 0.827,
+    "bbox": [
+      21,
+      8,
+      693,
+      910
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame71_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 72,
+    "label": "person",
+    "confidence": 0.7581,
+    "bbox": [
+      0,
+      4,
+      720,
+      850
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame72_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 73,
+    "label": "person",
+    "confidence": 0.94,
+    "bbox": [
+      9,
+      129,
+      709,
+      1151
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame73_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 74,
+    "label": "person",
+    "confidence": 0.9226,
+    "bbox": [
+      7,
+      170,
+      711,
+      1110
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame74_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 75,
+    "label": "person",
+    "confidence": 0.9452,
+    "bbox": [
+      2,
+      64,
+      716,
+      1213
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame75_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 76,
+    "label": "person",
+    "confidence": 0.9462,
+    "bbox": [
+      17,
+      228,
+      700,
+      1052
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame76_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 77,
+    "label": "person",
+    "confidence": 0.8819,
+    "bbox": [
+      0,
+      235,
+      715,
+      1044
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame77_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 78,
+    "label": "person",
+    "confidence": 0.9525,
+    "bbox": [
+      0,
+      103,
+      720,
+      1175
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame78_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 79,
+    "label": "person",
+    "confidence": 0.9401,
+    "bbox": [
+      0,
+      106,
+      717,
+      1173
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame79_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 80,
+    "label": "person",
+    "confidence": 0.9242,
+    "bbox": [
+      4,
+      106,
+      716,
+      1168
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame80_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 81,
+    "label": "person",
+    "confidence": 0.9489,
+    "bbox": [
+      0,
+      102,
+      720,
+      1177
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame81_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 82,
+    "label": "person",
+    "confidence": 0.9221,
+    "bbox": [
+      15,
+      50,
+      705,
+      1228
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame82_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 83,
+    "label": "person",
+    "confidence": 0.925,
+    "bbox": [
+      32,
+      62,
+      685,
+      1218
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame83_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 84,
+    "label": "person",
+    "confidence": 0.9212,
+    "bbox": [
+      37,
+      51,
+      680,
+      1229
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame84_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 85,
+    "label": "person",
+    "confidence": 0.9345,
+    "bbox": [
+      92,
+      146,
+      628,
+      1132
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame85_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 86,
+    "label": "person",
+    "confidence": 0.869,
+    "bbox": [
+      0,
+      126,
+      720,
+      1150
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame86_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 87,
+    "label": "person",
+    "confidence": 0.9188,
+    "bbox": [
+      20,
+      131,
+      697,
+      1146
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame87_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 88,
+    "label": "person",
+    "confidence": 0.9207,
+    "bbox": [
+      23,
+      137,
+      696,
+      1142
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame88_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 89,
+    "label": "person",
+    "confidence": 0.9423,
+    "bbox": [
+      4,
+      129,
+      716,
+      1149
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame89_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 90,
+    "label": "person",
+    "confidence": 0.9282,
+    "bbox": [
+      0,
+      125,
+      720,
+      1153
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame90_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-06-02_11-31-19_UTC",
+    "frame_number": 91,
+    "label": "person",
+    "confidence": 0.9208,
+    "bbox": [
+      0,
+      126,
+      720,
+      1152
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-06-02_11-31-19_UTC/2025-06-02_11-31-19_UTC_frame91_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 0,
+    "label": "person",
+    "confidence": 0.8956,
+    "bbox": [
+      130,
+      207,
+      481,
+      1073
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame0_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 1,
+    "label": "person",
+    "confidence": 0.6952,
+    "bbox": [
+      4,
+      69,
+      716,
+      1211
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame1_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 2,
+    "label": "person",
+    "confidence": 0.9274,
+    "bbox": [
+      0,
+      228,
+      716,
+      1050
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame2_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 3,
+    "label": "person",
+    "confidence": 0.8633,
+    "bbox": [
+      210,
+      196,
+      327,
+      1072
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame3_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 4,
+    "label": "person",
+    "confidence": 0.9034,
+    "bbox": [
+      7,
+      0,
+      712,
+      1280
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame4_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 5,
+    "label": "person",
+    "confidence": 0.9265,
+    "bbox": [
+      24,
+      185,
+      619,
+      1090
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame5_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 6,
+    "label": "person",
+    "confidence": 0.9413,
+    "bbox": [
+      2,
+      108,
+      671,
+      1168
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame6_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 7,
+    "label": "person",
+    "confidence": 0.8864,
+    "bbox": [
+      104,
+      57,
+      467,
+      1212
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame7_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 8,
+    "label": "person",
+    "confidence": 0.9134,
+    "bbox": [
+      30,
+      3,
+      645,
+      1277
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame8_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 9,
+    "label": "person",
+    "confidence": 0.7962,
+    "bbox": [
+      220,
+      281,
+      394,
+      996
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame9_det0_person.jpg"
+  },
+  {
+    "video_id": "2025-05-31_14-01-37_UTC",
+    "frame_number": 10,
+    "label": "person",
+    "confidence": 0.7979,
+    "bbox": [
+      223,
+      245,
+      370,
+      1034
+    ],
+    "crop_path": "/home/elyssa/Flickd_AI_Hackathon/models/detections/2025-05-31_14-01-37_UTC/2025-05-31_14-01-37_UTC_frame10_det0_person.jpg"
+  }
+]

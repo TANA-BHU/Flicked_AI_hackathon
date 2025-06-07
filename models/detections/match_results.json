@@ -1,0 +1,1283 @@
+[
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame23_det0_person.jpg",
+    "matched_product_id": "14977",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.7468,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame9_det0_person.jpg",
+    "matched_product_id": "17085",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7133,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame5_det0_person.jpg",
+    "matched_product_id": "16069",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7307,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame22_det1_person.jpg",
+    "matched_product_id": "17085",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7527,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame21_det0_person.jpg",
+    "matched_product_id": "42077",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.791,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det5_person.jpg",
+    "matched_product_id": "16968",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.6924,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame6_det0_person.jpg",
+    "matched_product_id": "16854",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7463,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det3_person.jpg",
+    "matched_product_id": "17146",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6977,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det7_person.jpg",
+    "matched_product_id": "15259",
+    "catalog_image": "img_14.jpg",
+    "similarity": 0.6629,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame11_det0_person.jpg",
+    "matched_product_id": "42075",
+    "catalog_image": "img_16.jpg",
+    "similarity": 0.7286,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame1_det0_person.jpg",
+    "matched_product_id": "42075",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7853,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame12_det0_person.jpg",
+    "matched_product_id": "17119",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7599,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame13_det0_person.jpg",
+    "matched_product_id": "15748",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.7853,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det4_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7131,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame24_det0_person.jpg",
+    "matched_product_id": "42032",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7354,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame15_det0_person.jpg",
+    "matched_product_id": "17128",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7554,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame3_det0_person.jpg",
+    "matched_product_id": "16887",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7754,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame20_det0_person.jpg",
+    "matched_product_id": "15290",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7898,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame25_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7196,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame4_det0_person.jpg",
+    "matched_product_id": "15195",
+    "catalog_image": "img_9.jpg",
+    "similarity": 0.7232,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame7_det0_person.jpg",
+    "matched_product_id": "16828",
+    "catalog_image": "img_8.jpg",
+    "similarity": 0.748,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame16_det0_person.jpg",
+    "matched_product_id": "42032",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7916,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame8_det0_person.jpg",
+    "matched_product_id": "15678",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7816,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame17_det0_person.jpg",
+    "matched_product_id": "16078",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.6583,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7225,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame0_det0_person.jpg",
+    "matched_product_id": "17107",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7654,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame18_det0_person.jpg",
+    "matched_product_id": "42032",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7969,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame2_det0_person.jpg",
+    "matched_product_id": "16230",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.6992,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame10_det0_person.jpg",
+    "matched_product_id": "15678",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.8303,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame14_det0_person.jpg",
+    "matched_product_id": "15678",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7817,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame19_det2_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7063,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-42-32_UTC_frame22_det0_person.jpg",
+    "matched_product_id": "16799",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7258,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame4_det0_person.jpg",
+    "matched_product_id": "17198",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8456,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame3_det0_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8311,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame5_det0_person.jpg",
+    "matched_product_id": "15232",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7881,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame2_det0_person.jpg",
+    "matched_product_id": "17124",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.8296,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame8_det1_person.jpg",
+    "matched_product_id": "17119",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7954,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame13_det0_person.jpg",
+    "matched_product_id": "17249",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7943,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame15_det0_person.jpg",
+    "matched_product_id": "15974",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7688,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame17_det2_handbag.jpg",
+    "matched_product_id": "15927",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7546,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame8_det0_person.jpg",
+    "matched_product_id": "15295",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7948,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame12_det0_person.jpg",
+    "matched_product_id": "17128",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7353,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame16_det0_person.jpg",
+    "matched_product_id": "17127",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7946,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame7_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7728,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame1_det0_person.jpg",
+    "matched_product_id": "15358",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.6098,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame6_det0_person.jpg",
+    "matched_product_id": "17119",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8463,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame17_det0_person.jpg",
+    "matched_product_id": "17127",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7772,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame1_det1_person.jpg",
+    "matched_product_id": "17033",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7558,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame10_det0_person.jpg",
+    "matched_product_id": "42100",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7967,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame7_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8267,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame9_det0_person.jpg",
+    "matched_product_id": "42100",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7023,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame14_det0_person.jpg",
+    "matched_product_id": "17127",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7724,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame19_det0_person.jpg",
+    "matched_product_id": "16760",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7879,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame2_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8212,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame3_det1_person.jpg",
+    "matched_product_id": "15350",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7952,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame11_det0_person.jpg",
+    "matched_product_id": "17198",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7979,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame0_det0_person.jpg",
+    "matched_product_id": "17077",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.5979,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame16_det6_handbag.jpg",
+    "matched_product_id": "17137",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7548,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-28_13-40-09_UTC_frame18_det0_person.jpg",
+    "matched_product_id": "16851",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.7883,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame3_det0_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7882,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame1_det1_umbrella.jpg",
+    "matched_product_id": "15576",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.7662,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame10_det0_person.jpg",
+    "matched_product_id": "15998",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7569,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame8_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7675,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame4_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8475,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame9_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8891,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame0_det0_person.jpg",
+    "matched_product_id": "15357",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8204,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame0_det1_umbrella.jpg",
+    "matched_product_id": "15576",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.7805,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame8_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7347,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame11_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8597,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame2_det1_person.jpg",
+    "matched_product_id": "15411",
+    "catalog_image": "img_10.jpg",
+    "similarity": 0.7638,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame7_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7926,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame1_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8244,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame9_det0_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8344,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame3_det1_person.jpg",
+    "matched_product_id": "15409",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8014,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame5_det0_person.jpg",
+    "matched_product_id": "16050",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7915,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-27_13-46-16_UTC_frame2_det0_tie.jpg",
+    "matched_product_id": "15531",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8072,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame60_det0_person.jpg",
+    "matched_product_id": "16097",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6572,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame58_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6913,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame46_det0_person.jpg",
+    "matched_product_id": "15259",
+    "catalog_image": "img_14.jpg",
+    "similarity": 0.7574,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame78_det0_person.jpg",
+    "matched_product_id": "15780",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.6664,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame40_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6761,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame20_det0_person.jpg",
+    "matched_product_id": "15034",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8383,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame0_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6881,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame38_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6798,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame69_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7198,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame4_det0_person.jpg",
+    "matched_product_id": "16097",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6415,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame50_det0_person.jpg",
+    "matched_product_id": "15014",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7465,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame12_det1_person.jpg",
+    "matched_product_id": "15087",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7039,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame83_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6818,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame77_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6862,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame52_det0_person.jpg",
+    "matched_product_id": "15259",
+    "catalog_image": "img_14.jpg",
+    "similarity": 0.7277,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame73_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6724,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame66_det0_person.jpg",
+    "matched_product_id": "16584",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6801,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame52_det1_person.jpg",
+    "matched_product_id": "15259",
+    "catalog_image": "img_14.jpg",
+    "similarity": 0.8232,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame25_det0_person.jpg",
+    "matched_product_id": "15220",
+    "catalog_image": "img_17.jpg",
+    "similarity": 0.6625,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame17_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6707,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame12_det0_person.jpg",
+    "matched_product_id": "17076",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7881,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame15_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.647,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame91_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6961,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame7_det0_person.jpg",
+    "matched_product_id": "16097",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.6362,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame31_det1_person.jpg",
+    "matched_product_id": "15672",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.7261,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame14_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6663,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame19_det0_person.jpg",
+    "matched_product_id": "17268",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8414,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame62_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6831,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame45_det0_person.jpg",
+    "matched_product_id": "17076",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.7821,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame10_det0_person.jpg",
+    "matched_product_id": "15640",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.7161,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame43_det0_person.jpg",
+    "matched_product_id": "17178",
+    "catalog_image": "img_6.png",
+    "similarity": 0.6239,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame39_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6556,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame11_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.7117,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame86_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7123,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame8_det0_person.jpg",
+    "matched_product_id": "16097",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.6489,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame13_det0_person.jpg",
+    "matched_product_id": "16694",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6941,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame51_det0_person.jpg",
+    "matched_product_id": "16584",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6977,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame36_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7691,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame68_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7108,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame85_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7056,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame29_det0_person.jpg",
+    "matched_product_id": "97546",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.6992,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame1_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6506,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame81_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6374,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame34_det0_person.jpg",
+    "matched_product_id": "15003",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6431,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame61_det0_person.jpg",
+    "matched_product_id": "15220",
+    "catalog_image": "img_17.jpg",
+    "similarity": 0.6728,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame49_det0_person.jpg",
+    "matched_product_id": "15835",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8244,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame21_det0_person.jpg",
+    "matched_product_id": "15220",
+    "catalog_image": "img_17.jpg",
+    "similarity": 0.646,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame22_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7298,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame41_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6812,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame48_det0_person.jpg",
+    "matched_product_id": "17032",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7294,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame30_det0_person.jpg",
+    "matched_product_id": "97551",
+    "catalog_image": "img_11.jpg",
+    "similarity": 0.7003,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame32_det0_person.jpg",
+    "matched_product_id": "97551",
+    "catalog_image": "img_11.jpg",
+    "similarity": 0.6897,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame53_det0_person.jpg",
+    "matched_product_id": "15487",
+    "catalog_image": "img_15.jpg",
+    "similarity": 0.6871,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame9_det0_person.jpg",
+    "matched_product_id": "42112",
+    "catalog_image": "img_3.jpg",
+    "similarity": 0.6846,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame89_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6967,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame5_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6158,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame35_det0_person.jpg",
+    "matched_product_id": "17032",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.6795,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame75_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6643,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame64_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7118,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame56_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6823,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame27_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6795,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame54_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6815,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame24_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.7122,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame57_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6875,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame59_det0_person.jpg",
+    "matched_product_id": "16097",
+    "catalog_image": "img_0.jpg",
+    "similarity": 0.6738,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame26_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6932,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame82_det0_person.jpg",
+    "matched_product_id": "14982",
+    "catalog_image": "img_10.jpg",
+    "similarity": 0.6912,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame44_det0_person.jpg",
+    "matched_product_id": "16720",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.7751,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame42_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6803,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame53_det1_person.jpg",
+    "matched_product_id": "15430",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8174,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame3_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6742,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame2_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6248,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame47_det0_person.jpg",
+    "matched_product_id": "15259",
+    "catalog_image": "img_14.jpg",
+    "similarity": 0.7378,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame87_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6637,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame72_det0_person.jpg",
+    "matched_product_id": "15034",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8196,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame80_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6735,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame90_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6841,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame23_det0_person.jpg",
+    "matched_product_id": "15220",
+    "catalog_image": "img_17.jpg",
+    "similarity": 0.7039,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame37_det0_person.jpg",
+    "matched_product_id": "17056",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.5839,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame18_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6737,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame16_det0_person.jpg",
+    "matched_product_id": "118441",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6379,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame31_det0_person.jpg",
+    "matched_product_id": "97551",
+    "catalog_image": "img_11.jpg",
+    "similarity": 0.7071,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame84_det0_person.jpg",
+    "matched_product_id": "17189",
+    "catalog_image": "img_1.png",
+    "similarity": 0.6757,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame70_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.7253,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame6_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6939,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame76_det0_person.jpg",
+    "matched_product_id": "17180",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6703,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame67_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6672,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame65_det0_person.jpg",
+    "matched_product_id": "16219",
+    "catalog_image": "img_8.png",
+    "similarity": 0.6624,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame33_det0_person.jpg",
+    "matched_product_id": "97551",
+    "catalog_image": "img_11.jpg",
+    "similarity": 0.6823,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame28_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6837,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame63_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6543,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame88_det0_person.jpg",
+    "matched_product_id": "15403",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.6567,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame55_det0_person.jpg",
+    "matched_product_id": "17094",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.6572,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame79_det0_person.jpg",
+    "matched_product_id": "17071",
+    "catalog_image": "img_1.jpg",
+    "similarity": 0.6192,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame71_det0_person.jpg",
+    "matched_product_id": "15430",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8054,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-06-02_11-31-19_UTC_frame74_det0_person.jpg",
+    "matched_product_id": "16110",
+    "catalog_image": "img_2.jpg",
+    "similarity": 0.6988,
+    "match_type": "no match"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame10_det0_person.jpg",
+    "matched_product_id": "17239",
+    "catalog_image": "img_5.jpg",
+    "similarity": 0.8353,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame9_det0_person.jpg",
+    "matched_product_id": "17107",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8248,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame2_det0_person.jpg",
+    "matched_product_id": "15290",
+    "catalog_image": "img_10.jpg",
+    "similarity": 0.8097,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame8_det0_person.jpg",
+    "matched_product_id": "42102",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8812,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame7_det0_person.jpg",
+    "matched_product_id": "15393",
+    "catalog_image": "img_6.jpg",
+    "similarity": 0.8964,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame4_det0_person.jpg",
+    "matched_product_id": "17032",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8382,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame6_det0_person.jpg",
+    "matched_product_id": "97557",
+    "catalog_image": "img_7.jpg",
+    "similarity": 0.8437,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame0_det0_person.jpg",
+    "matched_product_id": "118460",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8674,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame3_det0_person.jpg",
+    "matched_product_id": "17001",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8446,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame1_det0_person.jpg",
+    "matched_product_id": "42076",
+    "catalog_image": "img_18.jpg",
+    "similarity": 0.8309,
+    "match_type": "similar"
+  },
+  {
+    "crop_file": "2025-05-31_14-01-37_UTC_frame5_det0_person.jpg",
+    "matched_product_id": "17165",
+    "catalog_image": "img_4.jpg",
+    "similarity": 0.8363,
+    "match_type": "similar"
+  }
+]

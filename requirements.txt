@@ -1,0 +1,13 @@
+opencv-python
+ultralytics==8.0.20
+torch>=1.12.0
+torchvision
+pandas
+numpy
+faiss-cpu
+Pillow
+scikit-learn
+openpyxl
+tqdm
+transformers
+sentence-transformers
