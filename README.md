@@ -93,6 +93,17 @@ After running `--step full`, the following files will be generated:
 
 ---
 
+### Final JSON Format
+```json
+{
+  "crop_file": "2025-05-28_13-40-09_UTC_frame4_det0_person.jpg",
+  "matched_product_id": "17198",
+  "catalog_image": "img_5.jpg",
+  "similarity": 0.8456,
+  "match_type": "similar"
+}
+
+
 ##  Project Highlights
 
 - **YOLOv8** for object detection
